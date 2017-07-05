@@ -1,0 +1,15 @@
+{
+   "strict": true,
+   "bitwise": true,
+   "camelcase": true,
+   "latedef": false,
+   "quotmark": "single",
+
+   // evironments
+   "node": true,
+   "mocha": true,
+   "browser": true,
+   
+   // relaxing
+   "esversion": 6
+}
